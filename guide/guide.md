@@ -1,5 +1,6 @@
 # CS5 Usage Guide
 ***WARNING: CS5 is under development. It will NOT run games at the moment!***
+
 Welcome to CS5. This guide will teach you how to set up CS5, the first PS5 emulator.
 # Downloading CS5
 You will need to download CS5.zip.
